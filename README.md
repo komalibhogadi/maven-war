@@ -1,2 +1,2 @@
 # maven-war
-updated Readme
+updated Readme.md
